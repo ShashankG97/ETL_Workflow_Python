@@ -55,7 +55,6 @@ Sections:
 5. Data Transformation
 6. Data Loading
 7. ETL Execution Sequence
-8. Basic Analysis Example
 """
 
 # 1. Imports & Setup
